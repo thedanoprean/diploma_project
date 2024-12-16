@@ -46,7 +46,7 @@ Welcome to my **Diploma Project** titled **Smart Vehicles: Using Arduino for Rem
 ## 🔌 Circuit Diagram
 The following diagram illustrates the full hardware setup:
 
-![Circuit Diagram](/schematz.png)
+![Circuit Diagram](https://github.com/thedanoprean/diploma_project/blob/master/schematz.png)
 
 ---
 
