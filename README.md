@@ -129,15 +129,8 @@ The following diagram illustrates the full hardware setup:
 ├── loadfinal.py           # Script to load and test the model
 ├── traffictest.py         # Real-time traffic sign detection script
 ├── schematz.jpg           # Hardware circuit diagram
-├── README.md              # Project documentation
+|__ README.md              # Project documentation
 ```
-
----
-
-## 📸 Demo & Testing
-- Add photos or videos showcasing the project in action.
-- Demonstrate features such as **Bluetooth control**, **automatic headlights**, **pothole detection**, and **traffic sign recognition**.
-
 ---
 
 ## 🔗 Future Improvements
