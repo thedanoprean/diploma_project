@@ -130,7 +130,6 @@ The following diagram illustrates the full hardware setup:
 ├── traffictest.py         # Real-time traffic sign detection script
 ├── schematz.jpg           # Hardware circuit diagram
 ├── README.md              # Project documentation
-└── LICENSE                # License file (if applicable)
 ```
 
 ---
